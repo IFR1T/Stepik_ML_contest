@@ -1,0 +1,16 @@
+.idea
+.idea/
+/.idea
+.ipynb_checkpoints
+Stepik_MLcontest_rough_draft.ipynb
+Stepik_MLcontest_cleancode-Copy1.ipynb
+Stepik_MLcontest_cleancode-Copy2.ipynb
+Stepik_MLcontest_cleancode-Copy3.ipynb
+Untitled.ipynb
+.gitattributes
+reply_226979_2.txt
+Stepik_ML_contest/
+event_data_train.csv
+events_data_test.csv
+submission_data_test.csv
+submissions_data_train.csv
